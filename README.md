@@ -31,3 +31,7 @@ Coding Interview University has a multi-month study plan to become a software en
 ### [Awesome lists](https://github.com/sindresorhus/awesome)
 
 😎 Awesome lists about all kinds of interesting topics
+
+### [Front-end development](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
+
+Front end web-dev resources

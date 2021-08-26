@@ -35,3 +35,27 @@ Coding Interview University has a multi-month study plan to become a software en
 ### [Front-end development](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
 
 Front end web-dev resources
+
+### [computer-science](https://github.com/ossu/computer-science)
+
+This repository aims to create an open source curriculum for learning computer science. The repository covers the prerequisites, core, and advanced courses required to have a well-rounded understanding of the fundamentals of the field.
+
+### [system-design-primer](https://github.com/donnemartin/system-design-primer)
+
+One of the few fantastic resources available online for system design, this repo is extremely useful for developers who want to understand how to build scalable systems. Additionally, the repo also helps to prepare for systems design interviews at FAANG companies.
+
+### [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+
+This repo is useful for developers in building their own versions of software architecture/frameworks. The types of software covered include: Augmented reality, Blockchain/cryptocurrencies, Databases, Programming language, Neural networks
+
+### [public-apis](https://github.com/public-apis/public-apis)
+
+This repository is a collective list of freely available APIs that can be used for developing software applications. The repository is indexed categorically and also contains information regarding authorization, HTTPS, and CORS.
+
+### [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
+For the self-taught developer who loves to learn via creating projects, this repository is a gold mine. As the name suggests, this repository contains a list of programming languages and projects built with the respective language. Note that some of the projects do use more than a single language/technology.
+
+### [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
+This unique repository has a compilation of a number of nifty resources, tools, and tricks for web development, DevOps, networking, system administration, and security. The one thing that impressed me the most about this repository was the sheer number of tips for terminal and CLI tools.

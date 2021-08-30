@@ -30,7 +30,7 @@ Coding Interview University has a multi-month study plan to become a software en
 
 ### 8. [Awesome lists](https://github.com/sindresorhus/awesome)
 
-😎 Awesome lists about all kinds of interesting topics
+Awesome lists about all kinds of interesting topics
 
 ### 9. [computer-science](https://github.com/ossu/computer-science)
 

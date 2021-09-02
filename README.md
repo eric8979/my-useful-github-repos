@@ -1,5 +1,7 @@
 # 😻 Useful GitHub Repos
 
+### 🔭 Search "best practices" for best practices on almost everything!
+
 ### 1. [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
 
 A set of guidelines for a specific programming language that recommends programming style, practices, and methods for each aspect of a program written in that language.

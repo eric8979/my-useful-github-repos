@@ -2,7 +2,7 @@
 
 #### 🔭 Search "best practices" for best practices on almost everything!
 
-#### 🔭 Search for my lang (TypeScript) on [GitHub Google page](https://github.com/google).
+#### 🔭 Search for my lang (ex. TypeScript) on [GitHub Google page](https://github.com/google).
 
 ### 1. [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
 

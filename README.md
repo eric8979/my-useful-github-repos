@@ -59,3 +59,7 @@ This unique repository has a compilation of a number of nifty resources, tools, 
 ### 15. [Front-end development](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
 
 Front end web-dev resources
+
+### 16. [gothinkster/realworld](https://github.com/gothinkster/realworld)
+
+See how the exact same Medium.com clone (called Conduit) is built using different frontends and backends. Yes, you can mix and match them, because they all adhere to the same API spec.

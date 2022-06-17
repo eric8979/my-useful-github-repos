@@ -2,7 +2,7 @@
 
 #### 🔭 Search "best practices" for best practices on almost everything!
 
-#### 🔭 Search for my lang (ex. TypeScript) on [GitHub Google page](https://github.com/google).
+#### 🔭 Search for my lang (ex. TypeScript) on [GitHub Google page](https://github.com/google).g
 
 ### 1. [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
 
@@ -67,3 +67,7 @@ Front end web-dev resources
 ### 16. [gothinkster/realworld](https://github.com/gothinkster/realworld)
 
 See how the exact same Medium.com clone (called Conduit) is built using different frontends and backends. Yes, you can mix and match them, because they all adhere to the same API spec.
+
+### 17. [mdn:Command Line Crash Course](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
+
+Learn basic terminal usage.

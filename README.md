@@ -1,4 +1,4 @@
-# 😻 Useful GitHub Repos
+# 😻 Useful Links
 
 #### 🔭 Search "best practices" for best practices on almost everything!
 

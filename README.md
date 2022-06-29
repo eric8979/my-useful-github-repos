@@ -53,15 +53,17 @@ This is the place containing community curated roadmaps, study plans, paths and 
 
 Coding Interview University has a multi-month study plan to become a software engineer for a large tech company like Google, Amazon, Facebook, Apple, or any other software company.
 
-
-
-## 💻 terminal
-
-### 1. [mdn:Command Line Crash Course](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
+### 12. [mdn:Command Line Crash Course](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
 
 Learn basic terminal usage.
 
+### 13. [karan/Projects](https://github.com/karan/Projects#web)
 
+A list of practical projects that anyone can solve in any programming language. These projects are divided in multiple categories, and each category has its own folder.
+
+### 14. [public-apis](https://github.com/public-apis/public-apis)
+
+Collective list of freely available APIs that can be used for developing software applications. The repository is indexed categorically and also contains information regarding authorization, HTTPS, and CORS.
 
 ## 🧑‍💻 etc...
 
@@ -73,14 +75,10 @@ A collection of cool hidden and not so hidden features of Git and GitHub. This c
 
 Awesome lists about all kinds of interesting topics
 
-### 3. [public-apis](https://github.com/public-apis/public-apis)
-
-This repository is a collective list of freely available APIs that can be used for developing software applications. The repository is indexed categorically and also contains information regarding authorization, HTTPS, and CORS.
-
-### 4. [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
+### 3. [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 Manually curated collection of resources for frontend web developers.
 
-### 5. [Front-end development](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
+### 4. [Front-end development](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
 
 Front end web-dev resources

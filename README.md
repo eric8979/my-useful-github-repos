@@ -59,9 +59,13 @@ Learn basic terminal usage.
 
 ### 13. [karan/Projects](https://github.com/karan/Projects#web)
 
-A list of practical projects that anyone can solve in any programming language. These projects are divided in multiple categories, and each category has its own folder.
+A listof practical projects that anyone can solve in any programming language. These projects are divided in multiple categories, and each category has its own folder.
 
-### 14. [public-apis](https://github.com/public-apis/public-apis)
+### 14. [Linux Journey](https://linuxjourney.com/)
+
+Learn the ways of Linux-fu, for free.
+
+### 15. [public-apis](https://github.com/public-apis/public-apis)
 
 Collective list of freely available APIs that can be used for developing software applications. The repository is indexed categorically and also contains information regarding authorization, HTTPS, and CORS.
 
